@@ -1,0 +1,42 @@
+h1
+{
+    text-align: center;
+}
+
+h2
+{
+    text-align: center;
+}
+
+form
+{
+    text-align: center;
+}
+
+.scrolling-wrapper-flexbox 
+{
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+}
+
+.card 
+{
+    flex: 0 0 auto;
+    margin-left: 2em;
+    border: .5em;
+}
+
+#weatherResults
+{
+    text-align: center;
+    background: lightblue;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+
+#forecastResults
+{
+    /* text-align: center; */
+}
